@@ -1,7 +1,7 @@
 
 /**
  * The class to simulate using a menu to handle transactions and display information
- * @author Yuehong Zhang 3109345 Assignment 1 part B
+ * @author Yuehong Zhang 
  */
 import java.util.Scanner;
 
