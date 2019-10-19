@@ -2,7 +2,7 @@
 
 /**
  * This Item class stores the name,purchasePrice and sellingPrice of an item
- * @author Yuehong Zhang 3109345
+ * @author Yuehong Zhang
  */
 public class Item {
     private String name;//name of the item
