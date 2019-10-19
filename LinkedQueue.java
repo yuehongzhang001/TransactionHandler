@@ -1,7 +1,7 @@
 
 /**
  * The class to implements queue using SinglyLinkedList
- * @author Yuehong Zhang 3109345 Assignment 1 part B
+ * @author Yuehong Zhang
  */
 import java.util.Collection;
 import java.util.Iterator;
