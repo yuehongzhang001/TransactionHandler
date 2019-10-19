@@ -1,7 +1,7 @@
 
 /**
  * This is a class to handle and records transactions.
- * @author Yuehong Zhang 3109345 Assignment 1 part B
+ * @author Yuehong Zhang
  */
 public class TransactionsHandler {
     private LinkedQueue<Item>  itemsHeld = new LinkedQueue<>();//this queue stores all the items in stock
